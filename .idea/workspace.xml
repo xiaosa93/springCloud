@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/springCloud" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -54,13 +57,14 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "spring.boot",
     "settings.editor.splitter.proportion": "0.27811244",
-    "spring.configuration.checksum": "582e4ccef8cb1247e68f8fa0ca7cafb5",
+    "spring.configuration.checksum": "8388cfa7c061112ca69538592d40d59b",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -159,7 +163,8 @@
       <option name="presentableId" value="Default" />
       <updated>1688105407971</updated>
       <workItem from="1688105409237" duration="11355000" />
-      <workItem from="1688118435224" duration="20917000" />
+      <workItem from="1688118435224" duration="23788000" />
+      <workItem from="1688192709874" duration="750000" />
     </task>
     <servers />
   </component>
